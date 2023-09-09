@@ -1,0 +1,8 @@
+G:\Meu Drive\GiaRosArt\Programas - C#\Time Conversion\obj\Debug\Time Conversion.csprojResolveAssemblyReference.cache
+G:\Meu Drive\GiaRosArt\Programas - C#\Time Conversion\obj\Debug\Time_Conversion.MainForm.resources
+G:\Meu Drive\GiaRosArt\Programas - C#\Time Conversion\obj\Debug\Time Conversion.csproj.GenerateResource.Cache
+G:\Meu Drive\GiaRosArt\Programas - C#\Time Conversion\bin\Debug\Time Conversion.exe.config
+G:\Meu Drive\GiaRosArt\Programas - C#\Time Conversion\bin\Debug\Time Conversion.exe
+G:\Meu Drive\GiaRosArt\Programas - C#\Time Conversion\bin\Debug\Time Conversion.pdb
+G:\Meu Drive\GiaRosArt\Programas - C#\Time Conversion\obj\Debug\Time Conversion.exe
+G:\Meu Drive\GiaRosArt\Programas - C#\Time Conversion\obj\Debug\Time Conversion.pdb
